@@ -1,0 +1,64 @@
+/* PlayerInfo.css */
+.col-black {
+    color: black;
+}
+.col-green {
+    color: green;
+}
+.col-blue {
+    color: blue;
+}
+.col-brown {
+    color: brown;
+}
+.col-red {
+    color: red;
+}
+.col-grey {
+    color: grey;
+}
+.col-teal {
+    color: teal;
+}
+.col-light-green {
+    color: lightgreen;
+}
+.col-amber {
+    color: amber;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.card-header h6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-header h6 svg {
+    margin-right: 10px;
+}
+
+.float-end {
+    float: right;
+}
+
+.btn-link {
+    background: none;
+    border: none;
+    color: inherit;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+}
+
+.card-body img {
+    width: 120px;
+    height: 120px;
+}
+.svg-icon {
+    width: 16px;
+    height: 16;
+}
