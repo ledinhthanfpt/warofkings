@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/warofkings/static/css/main.aac2d61f.css",
+    "main.js": "/warofkings/static/js/main.1267bcdf.js",
+    "static/js/453.631b9127.chunk.js": "/warofkings/static/js/453.631b9127.chunk.js",
+    "index.html": "/warofkings/index.html",
+    "main.aac2d61f.css.map": "/warofkings/static/css/main.aac2d61f.css.map",
+    "main.1267bcdf.js.map": "/warofkings/static/js/main.1267bcdf.js.map",
+    "453.631b9127.chunk.js.map": "/warofkings/static/js/453.631b9127.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aac2d61f.css",
+    "static/js/main.1267bcdf.js"
+  ]
+}
